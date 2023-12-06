@@ -3,7 +3,7 @@
 ### The Chatbot is designed to classify the patients medical diagnosis based on his medical summary given by the physician.
 
 
-##About the application
+## About the application
 ### The app is build using python as a programming language  and streamlit library for building an interactive UI
 
 ## Steps to start the app
@@ -23,6 +23,9 @@
 ### This will run an app on the localhost which will show an interactive UI as shown below
 
 <img width="623" alt="image" src="https://github.com/shrinalawade/Conversational_AI_Chatbot/assets/26817905/6883798f-9855-4d34-8cca-86bcec17f90f">
+
+### The classfication metrics obtained after train-test split on the train data (80:20) as given below
+<img width="306" alt="image" src="https://github.com/shrinalawade/Conversational_AI_Chatbot/assets/26817905/19f11fb0-9cb6-466f-8ba0-a1a19524636d">
 
 
 
