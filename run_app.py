@@ -1,7 +1,7 @@
 import streamlit as st
 from predictions import get_prediction
 
-st.set_page_config(page_title="Chat with the Streamlit docs, powered by LlamaIndex", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title="Chat with the Streamlit", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
 st.title("Conversation AI- Medical Diagnosis")
 st.button("Clear Chat History", type="primary")
 
