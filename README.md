@@ -22,6 +22,7 @@
 
 ### This will run an app on the localhost which will show an interactive UI as shown below
 
+<img width="623" alt="image" src="https://github.com/shrinalawade/Conversational_AI_Chatbot/assets/26817905/6883798f-9855-4d34-8cca-86bcec17f90f">
 
 
 
